@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>개인정보 보호정책</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background-color: #fff;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #0366d6;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #0366d6;
+            margin-bottom: 10px;
+        }
+        .last-updated {
+            color: #666;
+            font-size: 14px;
+        }
+        h2 {
+            color: #24292e;
+            border-bottom: 1px solid #e1e4e8;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        .section {
+            margin-bottom: 25px;
+        }
+        .highlight {
+            background-color: #f6f8fa;
+            padding: 15px;
+            border-left: 4px solid #0366d6;
+            margin: 15px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .contact-info {
+            background-color: #f1f8ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #e1e4e8;
+            color: #666;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>개인정보 보호정책</h1>
+        <p class="last-updated">최종 업데이트: 2025년 7월 31일</p>
+    </div>
+
+    <div class="highlight">
+        <strong>요약:</strong> 이 개인정보 보호정책은 본 웹사이트가 어떻게 귀하의 개인정보를 수집, 사용, 보호하는지 설명합니다.
+    </div>
+
+    <div class="section">
+        <h2>1. 수집하는 개인정보</h2>
+        <p>본 서비스는 다음과 같은 개인정보를 수집할 수 있습니다:</p>
+        <ul>
+            <li><strong>자동 수집 정보:</strong> IP 주소, 브라우저 유형, 방문 시간, 페이지 조회 기록</li>
+            <li><strong>선택적 제공 정보:</strong> 이메일 주소, 이름 (문의 시에만)</li>
+            <li><strong>쿠키 및 유사 기술:</strong> 웹사이트 기능 향상을 위한 기술적 쿠키</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>2. 개인정보 사용 목적</h2>
+        <p>수집된 개인정보는 다음 목적으로만 사용됩니다:</p>
+        <ul>
+            <li>서비스 제공 및 웹사이트 운영</li>
+            <li>사용자 문의 응답 및 고객 지원</li>
+            <li>웹사이트 개선 및 분석</li>
+            <li>법적 의무 이행</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>3. 개인정보 보관 및 삭제</h2>
+        <ul>
+            <li><strong>보관 기간:</strong> 수집 목적 달성 시까지 또는 법적 요구사항에 따라</li>
+            <li><strong>자동 삭제:</strong> 로그 데이터는 30일 후 자동 삭제</li>
+            <li><strong>요청 시 삭제:</strong> 사용자 요청 시 지체 없이 삭제</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>4. 개인정보 공유 및 제3자 제공</h2>
+        <p>본 서비스는 다음의 경우를 제외하고는 개인정보를 제3자에게 제공하지 않습니다:</p>
+        <ul>
+            <li>사용자의 명시적 동의가 있는 경우</li>
+            <li>법적 요구 또는 정부 기관의 요청이 있는 경우</li>
+            <li>서비스 제공을 위해 필요한 업체 (GitHub Pages, 분석 도구 등)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>5. GitHub Pages 관련 정보</h2>
+        <p>본 웹사이트는 GitHub Pages에서 호스팅됩니다:</p>
+        <ul>
+            <li>GitHub의 개인정보 보호정책이 적용됩니다</li>
+            <li>GitHub는 기술적 로그를 수집할 수 있습니다</li>
+            <li>자세한 내용은 <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" target="_blank">GitHub 개인정보 보호정책</a>을 참조하세요</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>6. 쿠키 정책</h2>
+        <ul>
+            <li><strong>필수 쿠키:</strong> 웹사이트 기본 기능을 위해 사용</li>
+            <li><strong>분석 쿠키:</strong> 웹사이트 사용 패턴 분석 (선택사항)</li>
+            <li><strong>쿠키 관리:</strong> 브라우저 설정에서 쿠키를 비활성화할 수 있습니다</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>7. 사용자 권리</h2>
+        <p>귀하는 다음과 같은 권리를 가집니다:</p>
+        <ul>
+            <li><strong>열람권:</strong> 개인정보 처리 현황을 알 권리</li>
+            <li><strong>정정·삭제권:</strong> 개인정보의 수정이나 삭제를 요구할 권리</li>
+            <li><strong>처리정지권:</strong> 개인정보 처리 중단을 요구할 권리</li>
+            <li><strong>손해배상청구권:</strong> 개인정보 침해로 인한 피해 구제를 요구할 권리</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>8. 보안</h2>
+        <p>개인정보 보호를 위해 다음과 같은 보안 조치를 취합니다:</p>
+        <ul>
+            <li>HTTPS 암호화 통신</li>
+            <li>접근 권한 제한</li>
+            <li>정기적인 보안 점검</li>
+            <li>개인정보 최소 수집 원칙</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>9. 정책 변경</h2>
+        <p>본 개인정보 보호정책은 관련 법령이나 서비스 변경에 따라 수정될 수 있습니다. 중요한 변경사항이 있을 경우 웹사이트를 통해 공지하겠습니다.</p>
+    </div>
+
+    <div class="contact-info">
+        <h2>10. 연락처</h2>
+        <p>개인정보 보호와 관련된 문의사항이 있으시면 아래로 연락해 주세요:</p>
+        <ul>
+            <li><strong>이메일:</strong> chunws@blorange.co.kr</li>
+            <li><strong>GitHub 이슈:</strong> <a href="https://github.com/yourusername/yourrepo/issues" target="_blank">GitHub Issues</a></li>
+            <li><strong>개인정보보호책임자:</strong> 전우상 </li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        <p>이 개인정보 보호정책은 <a href="https://github.com/yourusername/yourrepo" target="_blank">GitHub</a>에서 오픈소스로 관리됩니다.</p>
+        <p>&copy; 2025 Your Website Name. All rights reserved.</p>
+    </div>
+
+    <script>
+        // 사용자 동의 관리를 위한 간단한 스크립트
+        function setCookie(name, value, days) {
+            const expires = new Date();
+            expires.setTime(expires.getTime() + (days * 24 * 60 * 60 * 1000));
+            document.cookie = name + '=' + value + ';expires=' + expires.toUTCString() + ';path=/';
+        }
+
+        function getCookie(name) {
+            const nameEQ = name + "=";
+            const ca = document.cookie.split(';');
+            for(let i = 0; i < ca.length; i++) {
+                let c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        }
+
+        // 페이지 로드 시 쿠키 동의 상태 확인
+        document.addEventListener('DOMContentLoaded', function() {
+            if (!getCookie('privacy_consent')) {
+                // 쿠키 동의 배너 표시 로직 (선택사항)
+                console.log('쿠키 동의가 필요합니다.');
+            }
+        });
+    </script>
+</body>
+</html>
